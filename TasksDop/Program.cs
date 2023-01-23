@@ -9,5 +9,4 @@ while (array[i] != 0)
     array[i] = Convert.ToInt32(Console.ReadLine());
     i = i + 1;
 }
-
 Console.WriteLine(array);
